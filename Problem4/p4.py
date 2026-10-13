@@ -7,7 +7,7 @@ print('after swapping:')
 
 print(f"a = {a}")
 print(f"b = {b}")
-print('before swappingsss:')
+print('before swappings:')
 a,b ={b,a}
 print(f"a = {a}")
 print(f"b = {b}")
