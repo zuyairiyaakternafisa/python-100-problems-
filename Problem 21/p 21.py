@@ -1,0 +1,10 @@
+#Read two integers (one per line) and print the result of addition, subtraction, multiplication, division, floor division, modulus and power (first ** second). SAMPLE INPUT SAMPLE OUTPUT 17 5 Addition: 22 Subtraction: 12 Multiplication: 85 Division: 3.4 Floor Division: 3 Modulus: 2 Power: 1419857
+a= int (input())
+b= int (input())
+print ("Addition =", a+b)
+print("Subtraction=" ,a-b)
+print ("Astertic =",a*b)
+print ("Division =",a/b)
+print ("Floor division=" ,a//b)
+print ("Modulas =", a%b)
+print ("Power =",a**b)
